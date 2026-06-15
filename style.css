@@ -15,6 +15,7 @@ body{
 }
 
 .container{
+    margin-top: 105px;
     background:#fff;
     width:100%;
     max-width:450px;
