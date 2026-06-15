@@ -6,7 +6,7 @@
 }
 
 body{
-    background: black;
+    background-color: #1e40af;
     min-height:100vh;
     display:flex;
     justify-content:center;
@@ -15,7 +15,6 @@ body{
 }
 
 .container{
-    margin-top: 105px;
     background:#fff;
     width:100%;
     max-width:450px;
